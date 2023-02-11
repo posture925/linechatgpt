@@ -1,5 +1,6 @@
 #%%
 str = "hello"
-print (str)
+str2 = "seems ok"
+print (str + str2)
 
 # %%
