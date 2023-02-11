@@ -1,0 +1,5 @@
+#%%
+str = "hello"
+print (str)
+
+# %%
